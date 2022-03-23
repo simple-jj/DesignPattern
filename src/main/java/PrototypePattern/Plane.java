@@ -12,7 +12,7 @@ public class StudyPrototype implements Prototype{
     
     @Override
     public void doSomething() {
-        System.out.println("这个是学习的原型类");
+        System.out.println("这个是学习的原型类new ");
     }
 
     @Override
